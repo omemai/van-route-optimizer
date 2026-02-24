@@ -51,3 +51,13 @@ The project follows a clean separation-of-concerns backend design:
 - **agent.py** — Execution coordination and validation  
 
 The architecture isolates business logic from infrastructure layers, enabling maintainability, extensibility, and future integration of additional optimization constraints.
+
+---
+
+## Example Output
+
+Below is an example of optimized route assignments written back to Google Sheets:
+
+![Van Route Optimizer Results](assets/results-example.png)
+
+---
