@@ -1,0 +1,17 @@
+# Virtual env
+.venv/
+
+# Secrets
+.env
+creds.json
+secrets/
+
+# Cache / generated
+data/cache/
+__pycache__/
+*.pyc
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/
